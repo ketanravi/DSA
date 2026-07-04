@@ -1,4 +1,4 @@
-package AlgoMaster.HashTables;
+package src.AlgoMaster.HashTables;
 /*
         Given two strings s and t, determine if they are isomorphic.
 

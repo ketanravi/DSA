@@ -1,6 +1,6 @@
 package AlgoMaster.LinkedList;
 
-class LinkedList {
+public class LinkedList {
     ListNode head;
 
     public ListNode addNode(int data) {
@@ -23,7 +23,7 @@ class LinkedList {
     }
 
     // Method to return the head of the linked list
-    public ListNode getHead() {
+    public AlgoMaster.LinkedList.ListNode getHead() {
         return head;
     }
 

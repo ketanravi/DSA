@@ -1,0 +1,8 @@
+1. Array or Linkedlist
+2. Find cycle in linked list or cycle || Find start of cycle || Middle of linkedlist
+3. Sometimes question cannot be direct, we have to find if cycle is there
+4. use slow fast pointer either head or start of array
+5. slow step one step
+6. fast 2 step at a time
+7. if slow==fast -> cycle present
+8. if need to find starting point take slow to again start or zero and run one step slow and fast while slow!=fast to find starting point of cycle

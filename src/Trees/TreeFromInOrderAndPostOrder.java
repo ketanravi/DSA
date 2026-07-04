@@ -1,4 +1,7 @@
-package Trees;
+package src.Trees;
+
+import src.Trees.Traversal;
+import src.Trees.TreeNode;
 
 import java.util.HashMap;
 

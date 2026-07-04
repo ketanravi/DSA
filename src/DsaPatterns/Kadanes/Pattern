@@ -1,0 +1,20 @@
+1. Subarray, contiguous
+2. sum or product
+3. best (either min or max)
+4. similar to sliding but sliding fails for negative case
+
+Template:
+
+Go index by index
+Take two choices at every index ->  best answer ending at this index and take choice
+    - at each index i best answer ending at index i
+    - for best answer add current index to prev ans(extend previous subarray) or discard all prev and keep current index(start afresh from current element)
+
+pseudo code
+    till last element
+        v1 = prev res+ current index value
+        v2= current index value
+
+        currentBest = best(v1,v2)
+        bestSoFar = best(currentBest,bestSoFar)
+    return bestSoFar

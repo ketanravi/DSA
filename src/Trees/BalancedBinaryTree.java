@@ -1,4 +1,4 @@
-package Trees;
+package src.Trees;
 
 public class BalancedBinaryTree {
     public static void main(String args[]){

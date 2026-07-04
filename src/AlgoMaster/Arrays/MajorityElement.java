@@ -1,4 +1,4 @@
-package AlgoMaster.Arrays;
+package src.AlgoMaster.Arrays;
 
 /*
     Given an array nums of size n, return the majority element.

@@ -1,0 +1,9 @@
+1. Arrays
+2. Range/Interval
+3. Start/End
+4. Keywords: Overlap,conflict,merge,free time,cpu,simultaneous usage, meetings,room,load
+
+
+Things to remember : Intervals will be given as start end like [4,10],[6,7]
+
+We should sort by start

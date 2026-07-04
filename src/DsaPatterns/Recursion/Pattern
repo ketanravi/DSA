@@ -1,0 +1,33 @@
+Backtracking
+
+1) Identify stages (left/right)
+2) Go stages one by one (like every i)
+3) Explore choices (what u can do at each stage)
+4) Make one choice and store somewhere
+5) Go to next stage
+6) Backtrack that is reverse decision
+7) When all stages finished(like index == n)
+8) whatever u have stored will be result
+
+Recursion
+
+Think about base case
+ek small chij kr ke alag rkh lo
+same function for other input trusting that we will get answer for remaining
+prev ans + curr
+
+Recursion with backtracking::
+Pattern : combinations, possibilities, permutation, options, subsets, choices, sequences
+
+Steps:
+1)choices lene ke kitne opportunity
+2)stages pe kaise jayenge
+3)har stage pe kitne choices h
+4)note down choices, go to next stage, reverse the noted
+5)after all stage finished -> there will be answer
+
+
+
+
+
+

@@ -1,4 +1,4 @@
-package AlgoMaster.KadaneAlgo;
+package src.AlgoMaster.KadaneAlgo;
 /*
     Given an integer array nums, find a
     subarray

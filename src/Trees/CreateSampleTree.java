@@ -1,4 +1,6 @@
-package Trees;
+package src.Trees;
+
+
 
 public class CreateSampleTree {
     TreeNode root;

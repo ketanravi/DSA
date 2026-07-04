@@ -1,8 +1,10 @@
-package Trees;
+package src.Trees;
+
+import src.Trees.TreeNode;
 
 public class Pair<T, T1> {
-    TreeNode node;
-    int state;
+    public TreeNode node;
+    public int state;
 
     public Pair(TreeNode node, int state){
         this.node = node;

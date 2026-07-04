@@ -1,4 +1,4 @@
-package AlgoMaster.BitManipulation;
+package src.AlgoMaster.BitManipulation;
 /*
         Given an integer array nums where every element appears three times except for one, which appears exactly once. Find the single element and return it.
 

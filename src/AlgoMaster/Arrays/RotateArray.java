@@ -1,4 +1,4 @@
-package AlgoMaster.Arrays;
+package src.AlgoMaster.Arrays;
 
 import java.util.Arrays;
 

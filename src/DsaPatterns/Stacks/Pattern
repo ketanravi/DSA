@@ -1,0 +1,21 @@
+1. items(array/string)
+2. left to right
+3. most recent/ next greater/ next smaller / prev greater / prev smaller
+4. matching/cancelling/cleaning
+5. reverse
+
+
+stack of 3 types
+
+1) simple
+2) monotonic(increasing/decreasing)
+3) greedy( like monotonic but based on condition like priority)
+
+
+
+template
+
+1) when to pop and what
+2) when to push and what
+3) calculate result
+

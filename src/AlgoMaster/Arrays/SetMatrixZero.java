@@ -1,4 +1,4 @@
-package AlgoMaster.Arrays;
+package src.AlgoMaster.Arrays;
 /*
     73. Set Matrix Zeroes
     Medium

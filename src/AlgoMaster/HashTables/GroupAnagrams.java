@@ -1,4 +1,4 @@
-package AlgoMaster.HashTables;
+package src.AlgoMaster.HashTables;
 
 import java.util.ArrayList;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package Trees;
+package src.Trees;
 
 import com.sun.source.tree.Tree;
 

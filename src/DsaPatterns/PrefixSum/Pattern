@@ -1,0 +1,15 @@
+1. Arrays/Subarray
+2. sum of left/right,pivot/equilibirium ( any condition between left right)
+3. Sum of subarrays where arrays having negative numbers
+4. Asked about sum==k or sum%k==0 -> use hashmap
+5. Shortest Window with sum>=k -> Use Deque
+6. range Sum - Merge Sort on prefix sum
+
+
+
+How is it different from sliding window
+
+    -> sliding window fails for negative numbers because we use high to increase and low to decrease sum, but negatives can alter the decision and work opposite
+
+Prefix Sum pattern needs some data structure if we need to store previous result
+

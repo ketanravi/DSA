@@ -1,4 +1,4 @@
-package Trees;
+package src.Trees;
 
 import java.util.HashMap;
 

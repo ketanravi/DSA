@@ -1,0 +1,21 @@
+1. Kth Smallest/Largest
+2. Top K (frequent)
+3. Closest/Farthest
+4. Min/Max at every steps
+5. Merge Sorted Things (Merge two means two pointer but more than 2 like merge 3,4,5 sorted)
+6. Rearrange while keeping best data
+7. Stream of data
+
+
+Min Heap -> Kth largest/biggest/greatest, Top K, Most Frequent
+Max Heap -> Kth smallest/shortest/bottom k,lowest k
+
+Steps to follow:
+
+Step 1 : check Top K Bottom, Kth Greatest, Kth largets, most frequent, closest, farthest
+Step 2: what we need to search or find, based on question (like frequency, distance)
+Step 3: Heap of Pair(if needed) otherwise normal heap
+Step 4: Large k(Min heap), Smaller(Max heap)
+Step 5: Push K items
+Step 6: Push, pop
+Step 7: k elements will be in heap remain
